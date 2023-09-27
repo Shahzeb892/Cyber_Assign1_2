@@ -6,3 +6,4 @@ beautifulsoup4
 textblob
 vaderSentiment
 newspaper3k
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
